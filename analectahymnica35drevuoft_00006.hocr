@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectahymnica35drevuoft_00006.png"; bbox 0 0 1650 2612; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 345 233 1265 297">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 345 233 1265 297">
+     <span class='ocr_line' id='line_1_1' title="bbox 345 233 1265 297; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 345 233 762 297; x_wconf 76' lang='lat' dir='ltr'><strong>PSALTERIA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 800 234 1265 296; x_wconf 62' lang='lat' dir='ltr'><strong>RHYTHMIOA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 637 413 975 417">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 637 413 975 417">
+     <span class='ocr_line' id='line_1_2' title="bbox 637 413 975 417; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 637 413 975 417; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 170 549 1452 650">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 170 549 1452 650">
+     <span class='ocr_line' id='line_1_3' title="bbox 170 549 1452 650; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 170 549 744 650; x_wconf 55' lang='lat' dir='ltr'><strong>Gereimsse‘</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 804 552 1452 649; x_wconf 72' lang='lat' dir='ltr'>Psalterien</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 518 872 1090 943">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 518 872 1090 943">
+     <span class='ocr_line' id='line_1_4' title="bbox 518 872 1090 943; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 518 872 1090 943; x_wconf 75' lang='lat' dir='ltr'>MittelalterS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 662 1071 952 1125">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 662 1071 952 1125">
+     <span class='ocr_line' id='line_1_5' title="bbox 662 1071 952 1125; baseline 0.007 -15"><span class='ocrx_word' id='word_1_7' title='bbox 662 1071 782 1111; x_wconf 78' lang='lat' dir='ltr'><strong>Erste</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 810 1071 952 1125; x_wconf 77' lang='lat' dir='ltr'>Folge.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 253 1332 1355 1373">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 253 1332 1355 1373">
+     <span class='ocr_line' id='line_1_6' title="bbox 253 1332 1355 1373; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 253 1332 731 1373; x_wconf 76' lang='lat' dir='ltr'>Handsehris‘cen</span> <span class='ocrx_word' id='word_1_10' title='bbox 760 1334 881 1371; x_wconf 85' lang='lat' dir='ltr'>und</span> <span class='ocrx_word' id='word_1_11' title='bbox 911 1333 1355 1373; x_wconf 58' lang='lat' dir='ltr'>Prahdrueken</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 665 1459 943 1502">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 665 1459 943 1502">
+     <span class='ocr_line' id='line_1_7' title="bbox 665 1459 943 1502; baseline 0.004 -11"><span class='ocrx_word' id='word_1_12' title='bbox 665 1459 780 1492; x_wconf 63' lang='lat' dir='ltr'><strong>herauae</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 786 1460 943 1502; x_wconf 74' lang='lat' dir='ltr'>eeeeeeee</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
